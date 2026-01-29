@@ -206,3 +206,7 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+
+#data
+taxi_zone_lookup.csv
+green_tripdata_2025-11.parquet
